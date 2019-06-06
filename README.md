@@ -2,5 +2,5 @@
 
 ## Members:
 
-### 1651059 - Đỗ Thải Bảo
-### 1651076 - Bùi Quốc Huy
+### [1651059 - Đỗ Thải Bảo](https://github.com/bendoppler)
+### [1651076 - Bùi Quốc Huy](https://github.com/bqhuyy)
