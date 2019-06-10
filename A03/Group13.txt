@@ -1,4 +1,4 @@
-github: https://github.com/bqhuyy/Unity-project (private)
+github: https://github.com/bqhuyy/Unity-project
 Members:
 _ Bùi Quốc Huy - 1651076
 _ Đỗ Thái Bảo - 1651059
